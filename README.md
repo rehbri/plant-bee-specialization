@@ -11,3 +11,10 @@ César de Sá Carvalho Neto5
 Lourival Tyski5 (Orcid: 0009-0004-4321-5113)
 Tereza Cristina Giannini1,2 (Orcid: 0000-0001-9830-1204)
 
+[Supplementary_material_data.xlsx](https://github.com/user-attachments/files/20579329/Supplementary_material_data.xlsx)
+
+
+[Supplementary_material.docx](https://github.com/user-attachments/files/20579336/Supplementary_material.docx)
+
+
+
