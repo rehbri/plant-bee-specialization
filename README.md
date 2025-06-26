@@ -4,9 +4,9 @@ This repository contains the code and data for the manuscript titled "Functional
 
 **1-calculation of functional diversity**
 
--data `func_models.csv`
+-data `plant_trait.txt`;`bee_trait.txt`
 
--code `Functional_models_1608.R`
+-code `distanci_func_metris_func.R`
 
 
 
