@@ -213,7 +213,7 @@ summary(ID_FDis[[8]])
 
 #####Model selection?
 # Distr de la var de respuesta
-hist(datab$H2)
+hist(data$H2)
 data_clean<-na.omit(datab)
 
 require(fitdistrplus)
