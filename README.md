@@ -10,7 +10,7 @@ This repository contains the code and data for the manuscript titled "Functional
 
 
 
-**2-Calculation of interactions metric**
+**2-Calculation of interactions network**
 
 -Data> `Re_int_2024.csv`
 
