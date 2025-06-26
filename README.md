@@ -4,9 +4,9 @@ This repository contains the code and data for the manuscript titled "Functional
 
 **1-calculation of functional diversity**
 
--data func_models.csv
+-data 'func_models.csv'
 
--code Functional_models_1608.R
+-code 'Functional_models_1608.R'
 
 
 
@@ -18,29 +18,29 @@ This repository contains the code and data for the manuscript titled "Functional
 
 **3- Moran spatial correlation**
 
--data> dados_moran.txt
+-data> 'dados_moran.txt'
 
--code> moran_modelos.R
+-code> 'moran_modelos.R'
 
 
 **4-statistical analysis**
 
 **4.1- selection of functional metric models**
--Data> func_models.csv 
+-Data> 'func_models.csv' 
 
--Code> Functional_models_1608.R
+-Code> 'Functional_models_1608.R'
 
 **4.2 - selection of specialization models**
 
--data> bee_d.csv; plant_d.csv
+-data> 'bee_d.csv'; 'plant_d.csv'
 
--Code> d_linha.R
+-Code> 'd_linha.R'
 
 **Material suplementar**
 
-Supplementary_material_data.xlsx
+'Supplementary_material_data.xlsx'
 
-Supplementary_material.docx
+'Supplementary_material.docx'
 
 
 
