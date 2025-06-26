@@ -3,7 +3,14 @@ This repository contains the code and data for the manuscript titled "Functional
 
 
 1-calculation of functional diversity
+
 -data func_models.csv
+[plant_trait.txt](https://github.com/user-attachments/files/20914589/plant_trait.txt)
+[plant_trait.txt](https://github.com/user-attachments/files/20914589/plant_trait.txt)
+[bee_trait.txt](https://github.com/user-attachments/files/20914587/bee_trait.txt)
+[bee_trait.txt](https://github.com/user-attachments/files/20914587/bee_trait.txt)
+
+
 -code Functional_models_1608.R
 
 2-Calculation of interactions metrics
