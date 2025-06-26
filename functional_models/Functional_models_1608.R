@@ -214,7 +214,7 @@ summary(ID_FDis[[8]])
 #####Model selection?
 # Distr de la var de respuesta
 hist(data$H2)
-data_clean<-na.omit(datab)
+data_clean<-na.omit(data)
 
 require(fitdistrplus)
 fit.normal=fitdist(data_clean$H2[-6],"norm")
