@@ -38,7 +38,7 @@ This repository contains the code and data for the manuscript titled "Functional
 
 -Code> `d_linha.R`
 
-**Material suplementar**
+**Supplementary material**
 
 `Supplementary_material_data.xlsx`
 
