@@ -12,9 +12,10 @@ This repository contains the code and data for the manuscript titled "Functional
 
 **2-Calculation of interactions metric**
 
--Data>
+-Data> `Re_int_2024.csv`
 
--Code>
+-Code> `int_metric.R`
+
 
 **3- Moran spatial correlation**
 
